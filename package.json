@@ -24,7 +24,7 @@
   ],
   "icon": "images/allblack-wf.png",
   "galleryBanner": {
-    "color": "#4A4A4A",
+    "color": "#FAFAFA",
     "theme": "dark"
   },
   "contributes": {
