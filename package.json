@@ -1,0 +1,21 @@
+{
+  "name": "corinthians-all-black",
+  "displayName": "Corinthians All Black",
+  "description": "O tema black mais louco do Visual Studio Code!",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.97.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Corinthians All Black",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Corinthians All Black-color-theme.json"
+      }
+    ]
+  }
+}
