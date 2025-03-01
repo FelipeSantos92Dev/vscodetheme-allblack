@@ -1,14 +1,30 @@
 {
   "name": "corinthians-all-black",
   "displayName": "Corinthians All Black",
-  "description": "O tema black mais louco do Visual Studio Code!",
+  "description": "O tema black mais louco do Visual Studio Code inspirado nas cores do Corinthians!",
   "version": "0.0.1",
+  "publisher": "FelipeSantos92Dev",
+  "author": {
+    "name": "Felipe Santos"
+  },
   "engines": {
     "vscode": "^1.97.0"
   },
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "theme",
+    "dark theme",
+    "corinthians",
+    "black",
+    "all black"
+  ],
+  "icon": "images/icon.ico",
+  "galleryBanner": {
+    "color": "#000000",
+    "theme": "dark"
+  },
   "contributes": {
     "themes": [
       {
@@ -17,5 +33,11 @@
         "path": "./themes/Corinthians All Black-color-theme.json"
       }
     ]
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FelipeSantos92Dev/vscodetheme-allblack"
+  },
+  "homepage": "https://github.com/FelipeSantos92Dev/vscodetheme-allblack/blob/main/README.md",
+  "license": "MIT"
 }
