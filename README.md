@@ -1,16 +1,26 @@
-# corinthians-all-black README
+# 🖤 CORINTHIANS ALL BLACK 🖤
 
-## Working with Markdown
+## O MAIOR TIME DO BRASIL NO GITHUB!
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+E aí, Fiel! Este é o repositório oficial do projeto **Corinthians All Black**! Aqui você vai encontrar toda a essência do Timão transportada para o mundo do código!
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+Assim como nosso Corinthians é GIGANTE dentro de campo, nosso código também será MONSTRUOSO! Não aceitamos menos que a excelência, porque somos Corinthians, somos All Black, somos o TERROR DO BRASIL!
 
-## For more information
+## Trabalhando com Markdown (como um bom Fiel!)
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+Você pode editar este README usando o Visual Studio Code, que é tão rápido quanto o Romero Buzios em um contra-ataque! Aqui vão alguns atalhos úteis que te farão programar com a velocidade dos contra-ataques do Timão:
 
-**Enjoy!**
+- Dividir o editor (`Cmd+\` no macOS ou `Ctrl+\` no Windows e Linux) - PARTIU FAZER GOL!
+- Alternar visualização prévia (`Shift+Cmd+V` no macOS ou `Shift+Ctrl+V` no Windows e Linux) - OLHA O REPLAY DA JOGADA!
+- Pressione `Ctrl+Space` (Windows, Linux, macOS) para ver uma lista de snippets Markdown - TÁ PODENDO, FIEL!
+
+## Para mais informações (porque Fiel sempre quer saber mais!)
+
+- [Suporte Markdown do Visual Studio Code](http://code.visualstudio.com/docs/languages/markdown) - Confia como confiamos no Cássio!
+- [Referência de Sintaxe Markdown](https://help.github.com/articles/markdown-basics/) - Tão sólido quanto nossa defesa!
+
+**VAI CORINTHIANS! 🖤🤍**
+
+---
+
+_Feito com a mesma paixão que vibra nas arquibancadas da FIEL na Neo Química Arena!_
