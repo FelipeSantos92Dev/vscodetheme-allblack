@@ -1,8 +1,8 @@
 {
-  "name": "corinthians-all-black",
-  "displayName": "Corinthians All Black",
-  "description": "O tema black mais louco do Visual Studio Code inspirado nas cores do Corinthians!",
-  "version": "0.2.0",
+  "name": "corinthians-themes",
+  "displayName": "Corinthians Themes",
+  "description": "Temas para Visual Studio Code inspirados nas cores do Corinthians - All Black e Home!",
+  "version": "0.2.1",
   "publisher": "FelipeSantos92Dev",
   "author": {
     "name": "Felipe Santos"
@@ -16,9 +16,11 @@
   "keywords": [
     "theme",
     "dark theme",
+    "light theme",
     "corinthians",
     "black",
-    "all black"
+    "all black",
+    "home"
   ],
   "icon": "images/allblack.png",
   "galleryBanner": {
