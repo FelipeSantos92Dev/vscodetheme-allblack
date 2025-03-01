@@ -1,17 +1,19 @@
 {
-  "name": "Corinthians Home",
+  "name": "Corinthians AllBlack",
+  "author": "Felipe Santos",
+  "maintainers": ["Felipe Santos <dev.felipesantos@gmail.com>"],
   "type": "light",
   "colors": {
     "editor.background": "#ffffff",
     "editor.foreground": "#222222",
     "activityBarBadge.background": "#000000",
     "activityBarBadge.foreground": "#ffffff",
-    "sideBarTitle.foreground": "#000000",
-    "activityBar.background": "#f0f0f0",
-    "activityBar.foreground": "#333333",
-    "sideBar.background": "#f5f5f5",
+    "sideBarTitle.foreground": "#555555",
+    "activityBar.background": "#000000", // Mudança aqui
+    "activityBar.foreground": "#ffffff", // Ajuste para contraste
+    "sideBar.background": "#f0f0f0", //Volta para estilo anterior
     "sideBar.foreground": "#222222",
-    "statusBar.background": "#000000",
+    "statusBar.background": "#ffffff",
     "statusBar.foreground": "#ffffff",
     "titleBar.activeBackground": "#000000",
     "titleBar.activeForeground": "#ffffff",
