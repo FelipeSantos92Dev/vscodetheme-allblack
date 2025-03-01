@@ -20,7 +20,7 @@
     "black",
     "all black"
   ],
-  "icon": "images/icon.ico",
+  "icon": "images/allblack.png",
   "galleryBanner": {
     "color": "#000000",
     "theme": "dark"
