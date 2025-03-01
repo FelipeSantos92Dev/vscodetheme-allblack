@@ -31,12 +31,12 @@
     "themes": [
       {
         "label": "Corinthians All Black",
-        "uiTheme": "vs-dark",
+        "uiTheme": "hc-black",
         "path": "./themes/Corinthians All Black-color-theme.json"
       },
       {
         "label": "Corinthians Home",
-        "uiTheme": "vs",
+        "uiTheme": "hc-light",
         "path": "./themes/Corinthians Home-color-theme.json"
       }
     ]
