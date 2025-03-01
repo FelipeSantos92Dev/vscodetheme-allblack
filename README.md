@@ -1,5 +1,7 @@
 # 🖤 CORINTHIANS ALL BLACK 🖤
 
+[![Preview in vscode.dev](https://img.shields.io/badge/preview%20in-vscode.dev-black)](https://vscode.dev/editor/theme/felipesantos92dev.corinthians-themes/Corinthians%20All%20Black)
+
 # [Tema Corinthians](https://marketplace.visualstudio.com/items?itemName=FelipeSantos92Dev.corinthians-themes)
 
 ## O MAIOR TIME DO BRASIL NO GITHUB!
