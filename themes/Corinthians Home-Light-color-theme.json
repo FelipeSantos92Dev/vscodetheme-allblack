@@ -29,7 +29,7 @@
     "button.hoverBackground": "#9E9E9EAA",
     "button.secondaryBackground": "#E0E0E0",
     "button.foreground": "#FFFFFF",
-    "progressBar.background": "#673AB7",
+    "progressBar.background": "#483963",
     "input.background": "#F0F0F0",
     "input.foreground": "#333333",
     "input.border": "#D0D0D0",
@@ -208,9 +208,9 @@
     "tab.unfocusedActiveForeground": "#757575",
     "tab.unfocusedInactiveForeground": "#8E8E8E",
     "tab.unfocusedHoverForeground": "#212121",
-    "tab.activeModifiedBorder": "#673AB7",
-    "tab.inactiveModifiedBorder": "#673AB7",
-    "tab.unfocusedActiveBorder": "#673AB7",
+    "tab.activeModifiedBorder": "#483963",
+    "tab.inactiveModifiedBorder": "#483963",
+    "tab.unfocusedActiveBorder": "#483963",
     "tab.lastPinnedBorder": "#757575",
     "panel.background": "#F5F5F5",
     "panel.border": "#D0D0D0",
@@ -220,7 +220,7 @@
     "panelInput.border": "#D0D0D0",
     "statusBar.background": "#512DA8",
     "statusBar.foreground": "#E1BEE7",
-    "statusBar.border": "#673AB7",
+    "statusBar.border": "#483963",
     "statusBar.noFolderBackground": "#F0F0F0",
     "statusBar.debuggingBackground": "#B71C1C",
     "statusBar.debuggingForeground": "#FFFFFF",
@@ -232,7 +232,7 @@
     "titleBar.activeForeground": "#E1BEE7",
     "titleBar.inactiveForeground": "#8E8E8E",
     "titleBar.inactiveBackground": "#F0F0F0",
-    "titleBar.border": "#673AB7",
+    "titleBar.border": "#483963",
     "walkThrough.embeddedEditorBackground": "#F0F0F0",
     "textLink.foreground": "#333333",
     "textLink.activeForeground": "#212121",
@@ -477,7 +477,7 @@
         "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
       ],
       "settings": {
-        "foreground": "#673AB7"
+        "foreground": "#483963"
       }
     },
     {
@@ -590,7 +590,7 @@
       "name": "Inserted",
       "scope": ["markup.inserted"],
       "settings": {
-        "foreground": "#673AB7"
+        "foreground": "#483963"
       }
     },
     {
