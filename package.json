@@ -38,6 +38,11 @@
         "label": "Corinthians Home",
         "uiTheme": "hc-light",
         "path": "./themes/Corinthians Home-color-theme.json"
+      },
+      {
+        "label": "Corinthians Home Light",
+        "uiTheme": "vs",
+        "path": "./themes/Corinthians Home-Light-color-theme.json"
       }
     ]
   },
